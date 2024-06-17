@@ -10,4 +10,4 @@ const Matomel= ()  => {
   );
 }
 
-export default App;
+export default Matomel;
